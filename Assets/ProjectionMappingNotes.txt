@@ -1,0 +1,9 @@
+Projector FOV = 58
+
+Floor to Projector = 3.21m
+
+Projection Width = 5.472m
+Projection Depth = 3.070m 
+
+Room Width = 6.530m
+Room Depth = 9.490m
