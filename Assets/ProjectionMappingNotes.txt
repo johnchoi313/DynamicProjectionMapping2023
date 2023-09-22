@@ -7,3 +7,5 @@ Projection Depth = 3.070m
 
 Room Width = 6.530m
 Room Depth = 9.490m
+
+Pedestal Height = 0.92m
